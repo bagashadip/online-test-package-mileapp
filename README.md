@@ -306,3 +306,8 @@ params:
 url: http://{base-url}/api/package/{transaction-id}
 method: DELETE
 ```
+
+# Run Test
+```
+php artisan test
+```
